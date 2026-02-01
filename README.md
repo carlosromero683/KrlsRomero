@@ -1,5 +1,5 @@
 ### Hi, I'm Carlos👋🦝🧑‍💻
-**KrlsRomero/KrlsRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Carlos Andrés Romero/Carlos Andrés Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <kbd>
   <img width="354" height="476" border-radius:50%; alt="Image" src="https://github.com/user-attachments/assets/d79ba413-b77c-4817-b92a-3f0e4b89414e" />
